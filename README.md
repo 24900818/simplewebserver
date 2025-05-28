@@ -100,10 +100,9 @@ httpd.serve_forever()
 
 ## OUTPUT:
 
-![Screenshot 2025-05-29 002617](https://github.com/user-attachments/assets/df04a37e-2264-4a42-a49b-225db6144d55)
 
 
-![image](https://github.com/user-attachments/assets/cfaec02c-d794-47fa-b5f3-335c9708c434)
+
 
 
 ## RESULT:
